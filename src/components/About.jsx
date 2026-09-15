@@ -8,25 +8,25 @@ const About = () => {
     {
       name: 'Dr. Sarah Johnson',
       role: 'CEO & Founder',
-      image: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&auto=format&fit=crop&w=150&h=150&q=80',
+      image: 'https://media.istockphoto.com/id/2228766181/photo/warmly-smiling-japanese-man-sitting-in-soft-backlight-at-home.jpg?s=2048x2048&w=is&k=20&c=ILCclUlRwjEA0SmiMfKSofngWA-yeSmXLYgY2yRElfg=',
       bio: 'Former professor with 15+ years in education technology'
     },
     {
       name: 'Michael Chen',
       role: 'CTO',
-      image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=150&h=150&q=80',
+      image: 'https://media.istockphoto.com/id/2228766181/photo/warmly-smiling-japanese-man-sitting-in-soft-backlight-at-home.jpg?s=2048x2048&w=is&k=20&c=ILCclUlRwjEA0SmiMfKSofngWA-yeSmXLYgY2yRElfg=',
       bio: 'Full-stack developer passionate about accessible learning'
     },
     {
       name: 'Emily Rodriguez',
       role: 'Head of Content',
-      image: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&auto=format&fit=crop&w=150&h=150&q=80',
+      image: 'https://images.unsplash.com/photo-1621390842036-f01b53d9cbfd?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       bio: 'Curriculum designer with experience at top universities'
     },
     {
       name: 'David Kim',
       role: 'Community Manager',
-      image: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&auto=format&fit=crop&w=150&h=150&q=80',
+      image: 'https://images.unsplash.com/photo-1621390842036-f01b53d9cbfd?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       bio: 'Building inclusive learning communities worldwide'
     }
   ];
